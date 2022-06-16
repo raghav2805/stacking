@@ -6,7 +6,7 @@ module.exports = {
   networks: {
     ropsten: {
       url: "https://ropsten.infura.io/v3/71003bc940334e2db0ad7bafbfcb0533",
-      accounts: ['5431a34a614fae4c15a7040bb16916d5100ece3d02af7a2be3e1157bbf0846ad']
+      accounts: ['6cce9ae3d260e22f8e90a2f967d60e24e3ec740b1aa59c3ae14eb074b380c529']
     }
   }
 }

@@ -30,5 +30,5 @@ const runMain = async () =>{
 runMain();
 
 
-// RewardToken deployed to: 0x8671D2D717A3443356FdDaB27D8AAcEa0d355fD8
-// Stacking deployed to: 0x43bC4A984166D223062e6B58541206dfe71Fc1eE
+// RewardToken deployed to: 0xe0B06011C635B288bC7A16dD4d3728486f40BD6D
+// Stacking deployed to: 0x6E19dB321431E5F23A055153a1df13cE3d5Ab5ad
